@@ -13,7 +13,7 @@
                 <strong> <u> blabla@gmail.com </u> </strong></br>
                 <strong> <u> Blabla.com </u> </strong></br>
      <p>
-  <div/>dfs
+  <div/>
   <div>
     <img src="http://d21vu35cjx7sd4.cloudfront.net/dims3/MMAH/thumbnail/645x380/quality/90/?url=http%3A%2F%2Fs3.amazonaws.com%2Fassets.prod.vetstreet.com%2F3a%2F54%2F5ae8bfcc41b381c27a792e0dd891%2FAP-KWDHXS-645sm8113.jpg"/>
   </div>
