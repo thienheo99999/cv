@@ -1,0 +1,22 @@
+*{
+	font-family: arial;
+}
+title{
+	font-size:25px;
+}
+#macha{
+	font-size: 12px;
+	color: gray;
+}
+#mame{
+	font-size: 16px;
+}
+h1{
+	color: red
+}
+h2{
+	color: pink;
+}
+h3{
+	color: blue;
+}
